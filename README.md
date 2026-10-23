@@ -28,6 +28,10 @@
 | **13** | **MongoDB Operators** | Comparison, Logical, Element, Evaluation, Array, and Update operators | [Explore](./13_MongoDB_Operators/README.md) |
 | **14** | **Cursor in MongoDB** | Streaming cursors, batching, `.next()`, `.hasNext()`, and pagination | [Explore](./14_Cursor_in_MongoDB/README.md) |
 | **15** | **Practice 100 Questions** | 100 comprehensive practice questions: Normal, Intermediate, and Advanced | [Explore](./15_Practice_100_questions/README.md) |
+| **16** | **Embedding & Referencing** | Denormalization vs Normalization, embedded document operations (`$push`, `$pull`) | [Explore](./16_Embeding_and_Referencing/README.md) |
+| **17** | **Indexing in MongoDB** | B-Tree internals, single/compound/multikey/TTL indexes, covered queries, execution stats | [Explore](./17_Indexing_In_MongoDB/README.md) |
+| **18** | **Aggregation in MongoDB** | Pipeline architecture, `$match`, `$group`, `$project`, `$sort`, `$lookup`, `$unwind` | [Explore](./18_Aggregation_In_MongoDB/README.md) |
+| **19** | **Aggregation Practice** | 10 real-world aggregation challenges with complete step-by-step solutions | [Explore](./19_Aggregation_Practice/README.md) |
 
 ---
 
