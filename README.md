@@ -32,6 +32,14 @@
 | **17** | **Indexing in MongoDB** | B-Tree internals, single/compound/multikey/TTL indexes, covered queries, execution stats | [Explore](./17_Indexing_In_MongoDB/README.md) |
 | **18** | **Aggregation in MongoDB** | Pipeline architecture, `$match`, `$group`, `$project`, `$sort`, `$lookup`, `$unwind` | [Explore](./18_Aggregation_In_MongoDB/README.md) |
 | **19** | **Aggregation Practice** | 10 real-world aggregation challenges with complete step-by-step solutions | [Explore](./19_Aggregation_Practice/README.md) |
+| **20** | **Schema Validation** | `$jsonSchema`, BSON types, validation actions (`error`/`warn`), and `collMod` | [Explore](./20_Schema_Validation_In_MongoDB/README.md) |
+| **21** | **Advanced MongoDB Overview** | High-level roadmap: Transactions, Replication, Sharding, Tuning, Backup | [Explore](./21_Advance_MongoDB/README.md) |
+| **22** | **Authentication & Authorization** | RBAC, Super Admin (`root`), DB users, built-in roles, and security config | [Explore](./22_Authentication_Authorization/README.md) |
+| **23** | **Replication in MongoDB** | Replica Sets, Primary/Secondary/Arbiter, Oplog, automated failover, Read Preferences | [Explore](./23_Replication_In_MongoDB/README.md) |
+| **24** | **Sharding in MongoDB** | Horizontal scaling, Shards, Config Servers, `mongos`, Range vs Hashed Sharding | [Explore](./24_Sharding_In_MongoDB/README.md) |
+| **25** | **Transactions in MongoDB** | Multi-document ACID transactions, Client Sessions, commit/abort workflows | [Explore](./25_Transaction_In_MongoDB/README.md) |
+| **26** | **Read & Write Concerns** | Write concerns (`w`, `j`, `wtimeout`), Read preferences, durability vs latency | [Explore](./26_Read_And_Write/README.md) |
+| **27** | **Backup & Restore** | Logical (`mongodump`/`mongorestore`) vs Physical backups, archive and gzip flags | [Explore](./27_BackUp_And_Restore/README.md) |
 
 ---
 
